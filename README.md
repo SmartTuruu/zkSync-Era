@@ -5,7 +5,7 @@
 # Манай телеграм: https://t.me/Happy24chanel
 
 # Хэрэгтэй холбоосууд:
-Албан ёсны ZkSync вэбсайт: https://zksync.io/
+Албан ёсны ZkSync вэбсайт: https://zksync.io/ 
 Chainlist сүлжээ дээрх ZkSync Era Mainnet: https://chainlist.org/?search=zksync+era
 Түрийвчнийхээ гүйлгээ, үйл ажиллагааг хянах block Explorer: https://explorer.zksync.io/
 Zksync гүүр: https://bridge.zksync.io/
@@ -14,6 +14,7 @@ ZkSync дээрх экосистем төслүүд: https://ecosystem.zksync.io
 ZkSync-н Crew3: https://crew3.xyz/c/zksync/questboard
 ZkSync-н Layer3: https://layer3.xyz/quests/welcome-to-a-new-era , https://layer3.xyz/quests/mute-zksync
 Dune дээрх ZkSync шинжилгээ: https://dune.com/browse/dashboards?q=zksync
+
 #Үйлдлүүд:
 
 ZkSync Era Mainnet Alpha одоо 2023 оны 3-р сарын 24-өөс эхлэн бүх хэрэглэгчдэд нээлттэй байгаа бөгөөд энэ нь бүх хүч чармайлтаа энэ үндсэн сүлжээнд зориул гэсэн үг,
