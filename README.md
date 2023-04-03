@@ -6,8 +6,11 @@
 
 # Хэрэгтэй холбоосууд:
 Албан ёсны ZkSync вэбсайт: https://zksync.io/ 
+
 Chainlist сүлжээ дээрх ZkSync Era Mainnet: https://chainlist.org/?search=zksync+era
+
 Түрийвчнийхээ гүйлгээ, үйл ажиллагааг хянах block Explorer: https://explorer.zksync.io/
+
 Zksync гүүр: https://bridge.zksync.io/
 ZkSync Eraегын албан ёсны түрийвч: https://portal.zksync.io/transfer
 ZkSync дээрх экосистем төслүүд: https://ecosystem.zksync.io/
